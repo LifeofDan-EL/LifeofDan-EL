@@ -7,7 +7,7 @@ I love going for a swim too.
 
 Skills: Java / Kotlin / Dart / Flutter / Firebase / Python
 
-- 🔭 I’m currently working on #100DaysOfCode 
+- 🔭 I’m currently working on [#100DaysOfCode](https://github.com/LifeofDan-EL/100-days-of-code)
 - 🌱 I’m currently learning Kotlin 
 - 👯 I’m looking to collaborate on Native Android Applications  
 - 🤔 I’m looking for help with Junior Android roles, Open Source Android projects 
