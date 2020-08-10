@@ -19,4 +19,4 @@ Skills: Java / Kotlin / Dart / Flutter / Firebase / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LifeofDan-EL&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/LifeofDan-EL)  
+
