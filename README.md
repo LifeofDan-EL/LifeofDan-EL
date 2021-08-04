@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Daniel Anomfueme
-#### I am an Android Developer
-I am a fast learner growing rapidly in mobile applications for Android. I can work independently and respect a deadline. I feel comfortable working with a good team of developers. I am passionate about mobile application technologies. 
+#### I am an Android Developer and Community Builder
 
 When I'm not being the techy I am, I watch anime, animations, series, movies, read comic books, books, manga, manhwa etc 
 I love going for a swim too.
@@ -9,9 +8,9 @@ Skills: Java / Kotlin / Dart / Flutter / Firebase / Python
 
 - 🔭 I’m currently working on [#Notes](https://github.com/LifeofDan-EL/Notes)
 - 🌱 I’m currently learning Kotlin 
-- 👯 I’m looking to collaborate on Native Android Applications  
-- 🤔 I’m looking for help with Junior Android roles, Open Source Android projects 
-- 💬 Ask me about Native Android 
+- 👯 I’m looking for TechnicalCommunity Managing roles.
+- 🤔 I’m looking for help with Junior Android roles, Open Source Android projects
+- 💬 Ask me about Native Android and Communities
 - 📫 How to reach me: anomfuemedaniel@gmail.com 
 
 
