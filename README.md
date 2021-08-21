@@ -8,8 +8,7 @@ Skills: Java / Kotlin / Dart / Flutter / Firebase / Python
 
 - 🔭 I’m currently working on [#Notes](https://github.com/LifeofDan-EL/Notes)
 - 🌱 I’m currently learning Kotlin 
-- 👯 I’m looking for Technical Community Managing roles.
-- 🤔 I’m looking for help with Junior Android roles, Open Source Android projects
+- 👯 I’m looking for Technical Community Managing, Project/Program Management roles.
 - 💬 Ask me about Native Android and Communities
 - 📫 How to reach me: anomfuemedaniel@gmail.com 
 
