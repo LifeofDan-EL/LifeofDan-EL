@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Daniel Anomfueme
-#### I am an Android Developer and Community Builder
+#### I am a Project Manager and Community Builder
 
 When I'm not being the techy I am, I watch anime, animations, series, movies, read comic books, books, manga, manhwa etc 
 I love going for a swim too.
@@ -9,7 +9,7 @@ Skills: Java / Kotlin / Dart / Flutter / Firebase / Python
 - 🔭 I’m currently working on [#Notes](https://github.com/LifeofDan-EL/Notes)
 - 🌱 I’m currently learning Kotlin 
 - 👯 I’m looking for Technical Community Managing, Project/Program Management roles.
-- 💬 Ask me about Native Android and Communities
+- 💬 Ask me about Native Android, Project Management and Communities
 - 📫 How to reach me: anomfuemedaniel@gmail.com 
 
 
