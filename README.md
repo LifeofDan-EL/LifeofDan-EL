@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Daniel Anomfueme
-#### I am a Project Manager and Community Builder
+#### I am a Community Builder and Project Manager
 
 When I'm not being the techy I am, I watch anime, animations, series, movies, read comic books, books, manga, manhwa etc 
 I love going for a swim too.
 
-Skills: Java / Kotlin / Dart / Flutter / Firebase / Python
+Skills: Writing / Public Speaking / Kotlin / Project Management / Leading Teams
 
-- 🔭 I’m currently working on [#Notes](https://github.com/LifeofDan-EL/Notes)
-- 🌱 I’m currently learning Kotlin 
-- 👯 I’m looking for Technical Community Managing, Project/Program Management roles.
-- 💬 Ask me about Native Android, Project Management and Communities
+- 🔭 I’m currently contributing to [VitaDAO](https://www.vitadao.com/), [Ingressive For Good UNN](https://ingressive.org/), [Plogging Nigeria](https://www.ploggingnigeria.org/) etc.
+- 🌱 I’m currently building and managing Communities. 
+- 👯 I’m looking for Community Management, Project/Program Management roles.
+- 💬 Ask me about Web3, Project Management and Communities
 - 📫 How to reach me: anomfuemedaniel@gmail.com 
 
 
