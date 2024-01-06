@@ -6,7 +6,7 @@ I love going for a swim too.
 
 Skills: Writing / Public Speaking / Kotlin / Project Management / Leading Teams
 
-- 🔭 I’m currently contributing to [VitaDAO](https://www.vitadao.com/), [Ingressive For Good UNN](https://ingressive.org/), [Plogging Nigeria](https://www.ploggingnigeria.org/) etc.
+- 🔭 I’m currently contributing to [VitaDAO](https://www.vitadao.com/), [DeSci Africa](https://desciafrica.xyz/), WatchDog etc.
 - 🌱 I’m currently building and managing Communities. 
 - 👯 I’m looking for Community Management, Project/Program Management roles.
 - 💬 Ask me about Web3, Project Management and Communities
