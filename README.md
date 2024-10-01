@@ -7,9 +7,9 @@ I love going for a swim too.
 Skills: Writing / Public Speaking / Kotlin / Project Management / Leading Teams
 
 - 🔭 I’m currently contributing to [VitaDAO](https://www.vitadao.com/), [DeSci Africa](https://desciafrica.xyz/), WatchDog etc.
-- 🌱 I’m currently building and managing Communities. 
-- 👯 I’m looking for Community Management, Project/Program Management roles.
-- 💬 Ask me about Web3, Project Management and Communities
+- 🌱 I’m currently upskilling around JavaScript, React and Solidty development. 
+- 👯 I’m looking for Developer Relations, Community Management, and Project/Program Management roles in Web3.
+- 💬 Ask me about Web3, Project Management and Communities.
 - 📫 How to reach me: anomfuemedaniel@gmail.com 
 
 
