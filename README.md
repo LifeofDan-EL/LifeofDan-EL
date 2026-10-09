@@ -6,8 +6,8 @@ I came to DevOps through the long way round: years of coordinating distributed t
 
 #### 🛠️ What I do
 
-- **Infrastructure:** Part of a distributed DevOps squad supporting node infrastructure and API uptime for the Scroll zkEVM network, using dashboards, alerts, logs and metrics to triage incidents and trace root causes. KCNA certified (2026).
-- **Blockchain:** Governance Delegate at [ScrollDAO](https://forum.scroll.io/), three years in [VitaDAO](https://www.vitadao.com/)'s Coordination Working Group through a $4.1M funding round, and founder of [DeSci Africa](https://www.desciafrica.xyz/). Ethereum Foundation Devconnect Scholar (2023).
+- **Infrastructure:** I run a Proxmox homelab with Docker, Grafana/Prometheus/Loki observability, and automated backups, documented in [homelab](https://github.com/LifeofDan-EL/homelab). KCNA certified (2026).
+- **Blockchain:** Governance Delegate at [ScrollDAO](https://forum.scroll.io/), evaluating protocol upgrade proposals and voting on the network's direction, three years in [VitaDAO](https://www.vitadao.com/)'s Coordination Working Group through a $4.1M funding round, and founder of [DeSci Africa](https://www.desciafrica.xyz/). Ethereum Foundation Devconnect Scholar (2023).
 - **Energy:** I build and write about solar monitoring, IoT and home automation, from a Grafana dashboard for my own solar system to turning a basic inverter into a smart one with Home Assistant.
 
 #### 🧰 Stack
@@ -18,7 +18,7 @@ Docker · Linux · Proxmox · Kubernetes · Grafana / Prometheus / Loki · Home 
 
 A Proxmox host running VMs, LXC containers and Docker stacks, with Cloudflare Tunnel and Tailscale for remote access and automated backups. Fully documented in [LifeofDan-EL/homelab](https://github.com/LifeofDan-EL/homelab).
 
-- ⚡ [Live solar energy dashboard](https://energy.lifeofdanel.xyz/api/hassio_ingress/7Vj4V16U5AAY4L582iDAAnxzELqUxPxDsE4d-B1KBd4/d/beisf3etwpclcc/solar-dashboard?orgId=1&from=now%2Fd&to=now&timezone=browser&refresh=30s)
+- ⚡ [Live solar energy dashboard](https://energy.lifeofdanel.xyz/public-dashboards/74c4cbb19933445d8cff7cb1c3ab478d?from=now%2Fd&to=now&timezone=browser)
 - 📝 [How the dashboard is built](https://www.lifeofdanel.xyz/projects/grafana-energy-dashboard)
 
 #### ✍️ Writing
