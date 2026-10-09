@@ -1,14 +1,13 @@
 ### Hi there 👋, I'm Daniel Anomfueme
 
 **DevOps Engineer · Technical Project Manager · Renewable Energy · Blockchain**
-📍 Port Harcourt, Nigeria
 
 I came to DevOps through the long way round: years of coordinating distributed teams in blockchain, and a long-running obsession with making energy systems smarter.
 
 #### 🛠️ What I do
 
 - **Infrastructure:** Part of a distributed DevOps squad supporting node infrastructure and API uptime for the Scroll zkEVM network, using dashboards, alerts, logs and metrics to triage incidents and trace root causes. KCNA certified (2026).
-- **Blockchain:** Governance Delegate at [ScrollDAO](https://forum.scroll.io/), three years in VitaDAO's Coordination Working Group through a $4.1M funding round, and founder of [DeSci Africa](https://www.desciafrica.xyz/). Ethereum Foundation Devconnect Scholar (2023).
+- **Blockchain:** Governance Delegate at [ScrollDAO](https://forum.scroll.io/), three years in [VitaDAO](https://www.vitadao.com/)'s Coordination Working Group through a $4.1M funding round, and founder of [DeSci Africa](https://www.desciafrica.xyz/). Ethereum Foundation Devconnect Scholar (2023).
 - **Energy:** I build and write about solar monitoring, IoT and home automation, from a Grafana dashboard for my own solar system to turning a basic inverter into a smart one with Home Assistant.
 
 #### 🧰 Stack
